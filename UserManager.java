@@ -1,4 +1,3 @@
-package egen.properties;
 
 import java.io.File;
 import java.io.FileInputStream;
